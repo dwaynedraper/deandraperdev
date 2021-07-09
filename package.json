@@ -14,12 +14,16 @@
   "dependencies": {
     "@material-ui/core": "^4.12.1",
     "@material-ui/icons": "^4.11.2",
+    "cors": "^2.8.5",
+    "css-loader": "^5.2.6",
     "express": "^4.17.1",
     "fontsource-roboto": "^4.0.0",
     "nodemon": "^2.0.9",
     "path": "^0.12.7",
     "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "react-dom": "^16.14.0",
+    "react-router-dom": "^5.2.0",
+    "style-loader": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.6",

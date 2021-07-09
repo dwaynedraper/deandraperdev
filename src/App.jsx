@@ -1,10 +1,10 @@
 import React from "react";
-import Button from '@material-ui/core/Button';
-import Home from '../Home/Home';
-import Blog from '../Blog/Blog';
-import NavBar from './NavBar';
-import Footer from './Footer';
 import { Route, Switch } from 'react-router-dom';
+// import Button from '@material-ui/core/Button';
+import Home from './Home/Home';
+import Blog from './Blog/Blog.jsx';
+import NavBar from './NavBar/NavBar';
+import Footer from './Footer/Footer';
 
 
 // import './App.css';
