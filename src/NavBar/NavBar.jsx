@@ -1,6 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+// get host from environment variable
+// const HOST = process.env.HOST || 'localhost';
+
 function NavBar() {
   return (
     <>
@@ -13,7 +16,10 @@ function NavBar() {
           <div className="collapse navbar-collapse" id="navcol-1">
             <ul className="navbar-nav ms-auto">
               <li className="nav-item"><Link to="/" className="nav-link active">HOME</Link></li>
-              <li className="nav-item"><Link to="/resume" className="nav-link active">RESUME</Link></li>
+              <li className="nav-item">
+                <a href={`http://localhost:3789/resume`} className="nav-link active">RESUME</a>
+                {/* <Link to="/resume" className="nav-link active">RESUME</Link> */}
+                </li>
               <li className="nav-item"><Link to="/blog" className="nav-link active">BLOG</Link></li>
             </ul>
           </div>
