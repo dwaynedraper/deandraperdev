@@ -2,10 +2,12 @@ import React from 'react';
 
 function Headline() {
   return (
-    <div className="headline">
-      <h1>React</h1>
-      <h2>A JavaScript library for building user interfaces.</h2>
-    </div>
+    <section className="clean-block clean-hero sectionStyle">
+      <div className="text">
+        <h2 className="mainh2Style">Dean Draper</h2>
+        <p className="mainpStyle">Full-Stack JavaScript Software Engineer</p>
+      </div>
+    </section>
   );
 }
 
