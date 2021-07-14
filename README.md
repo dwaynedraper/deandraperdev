@@ -1,5 +1,7 @@
-# React/Express template with Webpack setup
-This is a barebones template for React/Express with Material UI and Jest testing already linked up. This is free for use for anyone who just wants to get started quickly without using create-react-app. (MIT license)
+# <deandraper.dev>
+Hi. Welcome to the repo for my personal website. I am currently working on creating a landing page with basic info about me and my skills. There is also a link to download a copy of my most current resume.
+I will be adding a log that has the same articles I'm posting to Medium, as well as the preview version of my upcoming open-source educational website:
+> JavaScript - The Little Things
 
 ## To install:
 > npm install
@@ -10,7 +12,3 @@ This is a barebones template for React/Express with Material UI and Jest testing
 ## Development Server: (nodemon)
 > npm run server-dev
 
-## Current address of server
-> localhost:3789
-> 
-Feel free to change this if needed, I just already have other things constantly running at 3000 and 5000, so I picked an arbitrary number.
