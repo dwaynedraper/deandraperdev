@@ -22,6 +22,7 @@
     "fontsource-roboto": "^4.0.0",
     "nodemon": "^2.0.9",
     "path": "^0.12.7",
+    "pg": "^8.6.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-router-dom": "^5.2.0",
