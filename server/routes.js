@@ -3,7 +3,7 @@ const path = require('path');
 const pool = require('../database/db.js');
 
 //basic skeleton for queries
-// TODO: reconfigure after writing schema for database
+// TODO: reconfigure after writing schema for database, this is not complete
 router.get('/topics/:id', (req, res) => {
   try {
     const id = req.params.id;
