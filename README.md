@@ -9,6 +9,7 @@ Too many tutorials go into the fundamentals and never touch on the 'little thing
 Stack Overflow? That's occasionally hard to decipher as an experienced engineer, much less as a junior developer.<br>
 I plan to form a website that will allow posts in three very structured formats based on the information presented so that it is much easier to digest. Rather than questions and answers to what is a typically very specific dilemma, I want the approach to resemble teaching from a slightly broader or more generic scope. I have a small notebook filled with probably 100 different examples to populate the site with a few for inspiration. I really hope that developers will share 'tutorials' of the problems they've just faced, and that this will become a very comprehensive source of the Little Things of JavaScript.<br>
 Help me make this a reality. Whether you want to help by developing a groundbreaking app for aspiring developers, or by offering your own Little Things, all help will be welcome.<br>
+
 ## To install:
 > npm install
 
