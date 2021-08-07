@@ -13,8 +13,8 @@ Stack Overflow? That's occasionally hard to decipher as an experienced engineer,
 Users will be able to submit posts in one of three different formats. The submission page will have fields and instructions that guide users on how to submit. The consistent format should make learning a topic a smooth experience. The three formats are as follows:<br>
 
 * Little Things - a tutorial style guide covering a specific topic, with code and the thinking behind it.
-* Common Problems - a problem that was encountered, along with the thinking behind it and how to fix it.
-* Practice Problems - whiteboard-style problems that cover common areas of difficulty with revealable solutions.
+* Debug Sessions - a problem that was encountered, along with the thinking behind it and how to fix it.
+* Toy Problems - whiteboard-style problems that cover common areas of difficulty with revealable solutions.
 
 I have a small notebook filled with probably 100 different examples to populate the site with a few for inspiration. I really hope that developers will share tutorials for the problems they've just faced, and that this will become a very comprehensive source of the Little Things of JavaScript.<br>
 
